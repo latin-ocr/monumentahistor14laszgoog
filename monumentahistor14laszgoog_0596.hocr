@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentahistor14laszgoog_0596.png"; bbox 0 0 3796 5812; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1704 1953 1766 2845">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1704 1953 1766 2845">
+     <span class='ocr_line' id='line_1_1' title="bbox 1742 1953 1766 2733; baseline 111.429 -1671.429"><span class='ocrx_word' id='word_1_1' title='bbox 1750 1953 1765 2013; x_wconf 65' lang='grc' dir='ltr'>,ιΓ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1742 2072 1756 2127; x_wconf 66' lang='grc' dir='ltr'>ιι·</span> <span class='ocrx_word' id='word_1_3' title='bbox 1750 2156 1765 2277; x_wconf 70' lang='grc' dir='ltr'>-.ΔΙΙΙ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1752 2312 1762 2329; x_wconf 72' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_5' title='bbox 1752 2398 1762 2427; x_wconf 86' lang='grc' dir='ltr'>ιΙ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1753 2476 1766 2693; x_wconf 56' lang='lat' dir='ltr'>nullon-1⁸³1</span> <span class='ocrx_word' id='word_1_7' title='bbox 1757 2722 1762 2733; x_wconf 84' lang='grc' dir='ltr'>ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1704 2150 1739 2845; baseline -695 5560"><span class='ocrx_word' id='word_1_8' title='bbox 1704 2150 1736 2421; x_wconf 51' lang='lat' dir='ltr'>nudata-...nundus</span> <span class='ocrx_word' id='word_1_9' title='bbox 1713 2446 1737 2571; x_wconf 60' lang='lat' dir='ltr'>...H-dm</span> <span class='ocrx_word' id='word_1_10' title='bbox 1717 2590 1739 2767; x_wconf 68' lang='grc' dir='ltr'>η--ι.ι.ιΙ</span> <span class='ocrx_word' id='word_1_11' title='bbox 1722 2784 1735 2801; x_wconf 74' lang='grc'>.-</span> <span class='ocrx_word' id='word_1_12' title='bbox 1719 2836 1724 2845; x_wconf 96' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1902 5812">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1902 5812">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1902 5812"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1902 5812; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
